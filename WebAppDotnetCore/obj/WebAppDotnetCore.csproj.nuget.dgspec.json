@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\WebAppDotnetCore.csproj": {}
+    "C:\\Muru\\Office\\Github\\Test16\\TestCICD\\WebAppDotnetCore\\WebAppDotnetCore.csproj": {}
   },
   "projects": {
-    "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\WebAppDotnetCore.csproj": {
+    "C:\\Muru\\Office\\Github\\Test16\\TestCICD\\WebAppDotnetCore\\WebAppDotnetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
+        "projectUniqueName": "C:\\Muru\\Office\\Github\\Test16\\TestCICD\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
         "projectName": "WebAppDotnetCore",
-        "projectPath": "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
+        "projectPath": "C:\\Muru\\Office\\Github\\Test16\\TestCICD\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
         "packagesPath": "C:\\Users\\muu\\.nuget\\packages\\",
-        "outputPath": "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\obj\\",
+        "outputPath": "C:\\Muru\\Office\\Github\\Test16\\TestCICD\\WebAppDotnetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
         }
       }
     }
