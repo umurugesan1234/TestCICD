@@ -26,7 +26,7 @@ namespace WebAppDotnetCore.Pages
 
         public void OnGet()
         {
-        //Assigning request value
+        // Assign RequestId from current Activity Id if available; otherwise use HttpContext.TraceIdentifier
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
         }
     }
