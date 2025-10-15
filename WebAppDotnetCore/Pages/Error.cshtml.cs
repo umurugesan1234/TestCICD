@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -25,6 +26,7 @@ namespace WebAppDotnetCore.Pages
 
         public void OnGet()
         {
+        //Assigning request value
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
         }
     }
